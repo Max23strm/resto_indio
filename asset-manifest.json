@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/resto-indio/static/css/main.98c37b68.chunk.css",
+    "main.js": "/resto-indio/static/js/main.1769b21f.chunk.js",
+    "main.js.map": "/resto-indio/static/js/main.1769b21f.chunk.js.map",
+    "runtime-main.js": "/resto-indio/static/js/runtime-main.b711deb2.js",
+    "runtime-main.js.map": "/resto-indio/static/js/runtime-main.b711deb2.js.map",
+    "static/js/2.97d52ade.chunk.js": "/resto-indio/static/js/2.97d52ade.chunk.js",
+    "static/js/2.97d52ade.chunk.js.map": "/resto-indio/static/js/2.97d52ade.chunk.js.map",
+    "index.html": "/resto-indio/index.html",
+    "static/css/main.98c37b68.chunk.css.map": "/resto-indio/static/css/main.98c37b68.chunk.css.map",
+    "static/js/2.97d52ade.chunk.js.LICENSE.txt": "/resto-indio/static/js/2.97d52ade.chunk.js.LICENSE.txt",
+    "static/media/chhola.a1458ef1.jpg": "/resto-indio/static/media/chhola.a1458ef1.jpg",
+    "static/media/dosa.5c938f45.jpg": "/resto-indio/static/media/dosa.5c938f45.jpg",
+    "static/media/food.05892fe9.jpeg": "/resto-indio/static/media/food.05892fe9.jpeg",
+    "static/media/fooda.875b8ccf.jpeg": "/resto-indio/static/media/fooda.875b8ccf.jpeg",
+    "static/media/gujrati.77bd2d3b.jpeg": "/resto-indio/static/media/gujrati.77bd2d3b.jpeg",
+    "static/media/idli.dc2d98fd.jpg": "/resto-indio/static/media/idli.dc2d98fd.jpg",
+    "static/media/logo.019682fe.png": "/resto-indio/static/media/logo.019682fe.png",
+    "static/media/paneer.f04d2c56.jpg": "/resto-indio/static/media/paneer.f04d2c56.jpg",
+    "static/media/photo.8e975343.jpeg": "/resto-indio/static/media/photo.8e975343.jpeg",
+    "static/media/rajasthani.ae328833.jpg": "/resto-indio/static/media/rajasthani.ae328833.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b711deb2.js",
+    "static/js/2.97d52ade.chunk.js",
+    "static/css/main.98c37b68.chunk.css",
+    "static/js/main.1769b21f.chunk.js"
+  ]
+}
